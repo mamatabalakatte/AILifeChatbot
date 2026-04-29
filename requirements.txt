@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+google-genai
+python-dotenv
+python-multipart
+pillow
+requests
+reportlab
